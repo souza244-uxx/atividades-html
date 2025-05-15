@@ -1,0 +1,42 @@
+	<!DOCTYPE html>
+	<html>
+		<head>
+		<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>tabela</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+		</head>
+	<body>
+		<table> 
+	<tr>
+		<td colspan="80%" align="center"> <img src="tecnologia.webp" width="900px">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="80%" align="center"><a href="###"><button>HOME</button> </a>
+			<a href="###"><button>PRODUTOS </button></a>
+			<a href="###"><button>LOCALIZAÇÃO </button></a>
+			<a href="###"><button>EQUIPE </button> </a>
+			<a href="###"><button>SOBRE NOS </button> </a>
+		</td>
+			</td>
+		</tr>
+		<tr>
+			<td width="80%" align="center"> conteúdo</td>
+			<td width="20%" align="center"><img src="tigrinho.JPEG" width="350px">
+			<img src="Avon.JPEG" width="350px">
+			<img src="BR.PNG" width="350px">
+			<img src="cresol.JPEG" width="350px">
+			<img src="OLX.WEBP" width="350px">
+		</td>
+		</tr>
+		<tr>
+			<td colspan="80%" align="center">rodapé</td>
+		</tr>
+	</table>
+
+
+
+
+</body>
+</html>
